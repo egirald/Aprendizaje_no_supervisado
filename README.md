@@ -17,10 +17,8 @@ Integrantes:
 
 ## Resumen del proyecto
 
-Un proveedor de servicio de telefonía celular LTE requiere orientar las estrategias de planificación y optimización de la red nacional con el fin de maximizar la calidad del servicio entregado a los usuarios. 
+Un proveedor de servicio de telefonía celular LTE ha recolectado información física de las estaciones radiantes, parámetros de configuración y desempeño de indicadores de calidad (KPI) para orientar las estrategias de planificación y optimización de la red nacional, con el fin de maximizar la calidad del servicio entregado a los usuarios. Con base en estos datos, se aplican diferentes algoritmos de agrupación, como K-medias y K-medoides, para responder a las siguientes preguntas: ¿Podrían detectarse características comunes en las celdas con alta y baja velocidad de navegación? ¿Existe algún tipo de asociación entre celdas de acuerdo con el desempeño de los principales KPI? Como principal resultado se encontró que Kmedias y K-medoides lograron agrupar las celdas en dos clústeres, las de buen desempeño (mayor velocidad descarga y mayor disponibilidad) y las de bajo desempeño. Estos patrones encontrados, brindan al área de negocio información valiosa sobre las características de los grupos de celdas, que generan puntos de acción correctiva y de planeación en las estrategias de optimización de la red para maximizar la calidad del servicio prestado al usuario 
 
-El proveedor ha recolectado información física de las estaciones radiantes, parámetros de configuración y desempeño de indicadores de calidad tales como: velocidad de navegación, disponibilidad de la celda y sesiones exitosas. 
+# Link al video de Youtube
 
-Para el desarrollo de este trabajo, la información recolectada se procesa mediante técnicas de aprendizaje no supervisado (ML), que se encargan de explorar y agrupar la información con cierto grado de similitud, identificando patrones denominados cluster. Estos patrones encontrados brindan al área de negocio información valiosa sobre las características de celdas de la red, las cuales sirven como punto de partida para la optimización de la red.  
-
-Este trabajo presenta el tratamiento de la información disponible, los modelos de aprendizaje aplicados y los resultados obtenidos. 
+[![Video del proyecto](https://img.youtube.com/vi/JP6KTEsMHuE/maxresdefault.jpg)]([https://youtu.be/T-D1KVIuvjA](https://www.youtube.com/watch?v=JP6KTEsMHuE))
